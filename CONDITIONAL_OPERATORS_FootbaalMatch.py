@@ -15,6 +15,10 @@ if resultado > 5:
     
     print("STATUS: PARTIDA COM GOLEADA")
 
+elif resultado == 0:
+
+    print("STATUS: EMPATE")
+
 else:
 
     print("STATUS: PARTIDA NORMAL")
