@@ -11,7 +11,7 @@ resultado = abs(bangu - madureira)
 
 print(f"A diferença foi: {resultado}")
 
-if resultado > 5:
+if resultado >= 5:
     
     print("STATUS: PARTIDA COM GOLEADA")
 
